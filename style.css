@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header nav img {
+    width: 180px;
+    display: flex;
+    border-radius: 10px;
+    height: 250px;
+    padding: 2%;
+
+    
+  }
+.more  h2{
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+  
+  color: rgb(61, 100, 100);
+  
+  letter-spacing: 3px;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+    gap: 3px;
+    margin-right:10px ;
+}
+.cont{
+  color: rgb(113, 109, 119);
+  padding: 1%;
+  background-color: rgb(233, 198, 171)  ;
+   
+}
+h3{
+  font-size: 15px;
+  font-weight: 400;
+}
+a {
+  text-decoration: none;
+  color:rgb(0, 0, 0);
+}
+
+a:hover {
+  color: #cc7f96;
+}
+.container{
+margin-right: 1000px;
+background-color: rgb(231, 221, 221);
+}
+.int{
+  color: rgb(113, 109, 119);
+  padding: 1%;
+  background-color: rgb(233, 198, 171)  ;
+  font-size: 20px;
+}
+.parag p{
+   color:black;
+  display:flex;
+  flex-direction: column;
+  font-size: medium;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 5px;
+  
+   
+   
+}
+h1{
+  color: rgb(240, 167, 236);
+  letter-spacing: 1px;
+  
+  
+}
+.edu p{
+  color:black;
+  display:flex;
+ flex-direction: column;
+  font-size: medium;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+  
+}
+.lang p{
+  color:black;
+  display:flex;
+ flex-direction: column;
+  font-size: medium;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.more {
+  padding-left: 300px;
+  position: absolute;top: 0;
+  
+}
+
+
+
